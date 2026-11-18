@@ -1,0 +1,4 @@
+Student Management System
+Student Name :Spandana
+USN:4GW25CS105
+Department:CSE
