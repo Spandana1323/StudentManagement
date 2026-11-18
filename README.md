@@ -1,2 +1,3 @@
 # StudentManagement
-Collaboration and Remote Repositories
+Develeoped using Python.
+Maintained by CSE Students.
